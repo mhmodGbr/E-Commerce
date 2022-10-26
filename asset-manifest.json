@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/https//mhmodGbr.github.io/e-Commerce/static/css/main.2411554a.css",
-    "main.js": "/https//mhmodGbr.github.io/e-Commerce/static/js/main.84ea318b.js",
-    "static/js/787.dcc73137.chunk.js": "/https//mhmodGbr.github.io/e-Commerce/static/js/787.dcc73137.chunk.js",
-    "static/media/zzz.jpg": "/https//mhmodGbr.github.io/e-Commerce/static/media/zzz.016f1e8137de195a6a82.jpg",
-    "static/media/shoes (4).jpg": "/https//mhmodGbr.github.io/e-Commerce/static/media/shoes (4).6a8b8e3175a3c99fb141.jpg",
-    "static/media/shoes (5).jpg": "/https//mhmodGbr.github.io/e-Commerce/static/media/shoes (5).f12be2d3bc92bdd833e6.jpg",
-    "static/media/shoes (3).jpg": "/https//mhmodGbr.github.io/e-Commerce/static/media/shoes (3).b01a16f0d6f2fd0c2f63.jpg",
-    "static/media/watch (1).jpg": "/https//mhmodGbr.github.io/e-Commerce/static/media/watch (1).dc9874463116222100f0.jpg",
-    "static/media/shoes1.jpg": "/https//mhmodGbr.github.io/e-Commerce/static/media/shoes1.364b1f079ec07e11fddd.jpg",
-    "static/media/banner2.jpg": "/https//mhmodGbr.github.io/e-Commerce/static/media/banner2.8b0505ecb1dc972541cb.jpg",
-    "static/media/watch (6).jpg": "/https//mhmodGbr.github.io/e-Commerce/static/media/watch (6).98a21b197a443092f7ae.jpg",
-    "static/media/watch (3).jpg": "/https//mhmodGbr.github.io/e-Commerce/static/media/watch (3).44bdf5b17c44fc49ad8f.jpg",
-    "static/media/woman.jpg": "/https//mhmodGbr.github.io/e-Commerce/static/media/woman.c41073771115ff7362c0.jpg",
-    "index.html": "/https//mhmodGbr.github.io/e-Commerce/index.html",
-    "main.2411554a.css.map": "/https//mhmodGbr.github.io/e-Commerce/static/css/main.2411554a.css.map",
-    "main.84ea318b.js.map": "/https//mhmodGbr.github.io/e-Commerce/static/js/main.84ea318b.js.map",
-    "787.dcc73137.chunk.js.map": "/https//mhmodGbr.github.io/e-Commerce/static/js/787.dcc73137.chunk.js.map"
+    "main.css": "/e-Commerce/static/css/main.ecde5f63.css",
+    "main.js": "/e-Commerce/static/js/main.d34dfe9a.js",
+    "static/js/787.dcc73137.chunk.js": "/e-Commerce/static/js/787.dcc73137.chunk.js",
+    "static/media/zzz.jpg": "/e-Commerce/static/media/zzz.016f1e8137de195a6a82.jpg",
+    "static/media/shoes (4).jpg": "/e-Commerce/static/media/shoes (4).6a8b8e3175a3c99fb141.jpg",
+    "static/media/shoes (5).jpg": "/e-Commerce/static/media/shoes (5).f12be2d3bc92bdd833e6.jpg",
+    "static/media/shoes (3).jpg": "/e-Commerce/static/media/shoes (3).b01a16f0d6f2fd0c2f63.jpg",
+    "static/media/watch (1).jpg": "/e-Commerce/static/media/watch (1).dc9874463116222100f0.jpg",
+    "static/media/shoes1.jpg": "/e-Commerce/static/media/shoes1.364b1f079ec07e11fddd.jpg",
+    "static/media/banner2.jpg": "/e-Commerce/static/media/banner2.8b0505ecb1dc972541cb.jpg",
+    "static/media/watch (6).jpg": "/e-Commerce/static/media/watch (6).98a21b197a443092f7ae.jpg",
+    "static/media/watch (3).jpg": "/e-Commerce/static/media/watch (3).44bdf5b17c44fc49ad8f.jpg",
+    "static/media/woman.jpg": "/e-Commerce/static/media/woman.c41073771115ff7362c0.jpg",
+    "index.html": "/e-Commerce/index.html",
+    "main.ecde5f63.css.map": "/e-Commerce/static/css/main.ecde5f63.css.map",
+    "main.d34dfe9a.js.map": "/e-Commerce/static/js/main.d34dfe9a.js.map",
+    "787.dcc73137.chunk.js.map": "/e-Commerce/static/js/787.dcc73137.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2411554a.css",
-    "static/js/main.84ea318b.js"
+    "static/css/main.ecde5f63.css",
+    "static/js/main.d34dfe9a.js"
   ]
 }
