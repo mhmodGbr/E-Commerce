@@ -1,0 +1,32 @@
+.Footer {
+    background: #000;
+    height: 270px;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.Links {
+    margin-bottom: 30px;
+}
+
+.Links a {
+    padding: 0 10px 50px 30px;
+    font-size: 16px;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.Links a:hover {
+    text-decoration: underline;
+    color: aliceblue;
+}
+
+.social-icons a {
+    padding-left: 20px;
+    font-size: 20px;
+    color: aliceblue;
+}
+
+.social-icons a:hover {
+    color: #eb5424;
+}

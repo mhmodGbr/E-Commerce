@@ -1,0 +1,19 @@
+.Form {
+    background: rgba(250, 250, 250, 0.1);
+    height: 70vh;
+    width: 80%;
+    border-radius: 30px;
+    padding: 100px;
+}
+
+@media (min-width:950px) and (max-width:1150px) {
+    .Form {
+        padding: 40px;
+    }
+}
+
+@media (max-width:950px) {
+    .Form {
+        padding:100px 40px;
+    }
+}

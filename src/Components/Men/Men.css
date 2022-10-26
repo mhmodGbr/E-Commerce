@@ -1,0 +1,59 @@
+.Men {
+    padding-top: 30px !important;
+}
+
+.men-links {
+    padding-bottom: 20px;
+}
+
+.men-links a {
+    color: #ffffff87;
+    padding-left: 20px;
+    text-decoration: none;
+    transition: .2s ease;
+}
+
+.men-links a:hover {
+    color: aliceblue;
+    text-decoration: underline;
+}
+
+
+.third-card-body {
+    height: 25em;
+    width: 18em;
+    background: #ffffff87;
+}
+
+.men-cards {
+    margin:15em 5em;
+    display: flex;
+    justify-content: space-around ;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.sec-watch .img {
+    height: 30em;
+}
+
+.Card , .sec-watch {
+    background: #ffffff87;
+}
+
+.men-shadow-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 60px 0;
+    color: #ffffff87;
+}
+
+.FAQ h1 {
+    color: #ffffff87;
+    text-align: center;
+    font-size: auto;
+    font-weight: 700;
+    text-transform: uppercase;
+}

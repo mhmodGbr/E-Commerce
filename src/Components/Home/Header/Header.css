@@ -1,0 +1,39 @@
+.Home-container {
+    background-image: url(..//../images/banner2.jpg);
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-top: 2px solid #222 !important;
+    overflow: hidden;
+}
+
+.text {
+    margin: 70px 50px;
+    width: 60%;
+}
+
+.text h1 {
+    font-weight: 600;
+    font-size: 50px;
+}
+
+.text p {
+    font-weight: 600;
+    font-size: 1.2em;
+    margin-top: 30px;
+}
+
+Button {
+    margin-left: 50px;
+}
+
+#link {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 80px;
+    font-size: 20px;
+    font-weight: 700;
+}
