@@ -19,10 +19,12 @@ class App extends Component {
 
       
       
-      <Navigation />
+      
+      
       
 
       <Routes>
+        
         <Route exact path='/' element={<Home />} />
         <Route exact path='/Men' element={<Men />} />
         <Route exact path='/Women' element={<Women />} />

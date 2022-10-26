@@ -1,5 +1,6 @@
 import React, { Fragment, useState } from 'react';
 import './Men.css';
+import Navigation from "../Navigation/Navigation";
 import Container from 'react-bootstrap/Container';
 import blog1 from '../images/shoes1.jpg'; 
 import blog2 from '../images/watch (3).jpg';
@@ -20,8 +21,9 @@ import Button from 'react-bootstrap/Button';
 const Men = () => {
     return(
 
+        
         <section className='man'>
-
+            <Navigation />
         <Container className="Men">
 
             <Nav className="men-links" id="link">

@@ -1,6 +1,7 @@
 import React, { Fragment } from "react";
 import { Link } from 'react-router-dom'
 import './Women.css'
+import Navigation from "../Navigation/Navigation";
 import pic1 from '../images/shoes1.jpg';
 import pic2 from '../images/woman.jpg';
 
@@ -11,7 +12,9 @@ const Women = () => {
     return(
 
         <Fragment>
+            <Navigation />
         <section className='Woman'>
+        
         <div className='women-container'>
 
             <div className="woman-text">

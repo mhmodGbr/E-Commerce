@@ -3,11 +3,13 @@ import './Contact.css';
 import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
 import Footer from "../Home/Footer/Footer";
+import Navigation from "../Navigation/Navigation";
 
 
 const Contact = () => {
     return(
         <Fragment >
+            <Navigation />
         <Form className="Form"> 
                 <Form.Group className="mb-3" controlId="formBasicEmail">
                     <Form.Label>Email address</Form.Label>
