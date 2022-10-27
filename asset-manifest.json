@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/e-Commerce/static/css/main.5c3751eb.css",
-    "main.js": "/e-Commerce/static/js/main.c365e44c.js",
-    "static/js/787.dcc73137.chunk.js": "/e-Commerce/static/js/787.dcc73137.chunk.js",
-    "static/media/zzz.jpg": "/e-Commerce/static/media/zzz.016f1e8137de195a6a82.jpg",
-    "static/media/shoes (4).jpg": "/e-Commerce/static/media/shoes (4).6a8b8e3175a3c99fb141.jpg",
-    "static/media/shoes (5).jpg": "/e-Commerce/static/media/shoes (5).f12be2d3bc92bdd833e6.jpg",
-    "static/media/shoes (3).jpg": "/e-Commerce/static/media/shoes (3).b01a16f0d6f2fd0c2f63.jpg",
-    "static/media/watch (1).jpg": "/e-Commerce/static/media/watch (1).dc9874463116222100f0.jpg",
-    "static/media/shoes1.jpg": "/e-Commerce/static/media/shoes1.364b1f079ec07e11fddd.jpg",
-    "static/media/banner2.jpg": "/e-Commerce/static/media/banner2.8b0505ecb1dc972541cb.jpg",
-    "static/media/watch (6).jpg": "/e-Commerce/static/media/watch (6).98a21b197a443092f7ae.jpg",
-    "static/media/watch (3).jpg": "/e-Commerce/static/media/watch (3).44bdf5b17c44fc49ad8f.jpg",
-    "static/media/woman.jpg": "/e-Commerce/static/media/woman.c41073771115ff7362c0.jpg",
-    "index.html": "/e-Commerce/index.html",
-    "main.5c3751eb.css.map": "/e-Commerce/static/css/main.5c3751eb.css.map",
-    "main.c365e44c.js.map": "/e-Commerce/static/js/main.c365e44c.js.map",
-    "787.dcc73137.chunk.js.map": "/e-Commerce/static/js/787.dcc73137.chunk.js.map"
+    "main.css": "/E-commerce/static/css/main.a2d73b9f.css",
+    "main.js": "/E-commerce/static/js/main.e906e7b2.js",
+    "static/js/787.dcc73137.chunk.js": "/E-commerce/static/js/787.dcc73137.chunk.js",
+    "static/media/zzz.jpg": "/E-commerce/static/media/zzz.016f1e8137de195a6a82.jpg",
+    "static/media/shoes (4).jpg": "/E-commerce/static/media/shoes (4).6a8b8e3175a3c99fb141.jpg",
+    "static/media/shoes (5).jpg": "/E-commerce/static/media/shoes (5).f12be2d3bc92bdd833e6.jpg",
+    "static/media/shoes (3).jpg": "/E-commerce/static/media/shoes (3).b01a16f0d6f2fd0c2f63.jpg",
+    "static/media/watch (1).jpg": "/E-commerce/static/media/watch (1).dc9874463116222100f0.jpg",
+    "static/media/shoes1.jpg": "/E-commerce/static/media/shoes1.364b1f079ec07e11fddd.jpg",
+    "static/media/banner2.jpg": "/E-commerce/static/media/banner2.8b0505ecb1dc972541cb.jpg",
+    "static/media/watch (6).jpg": "/E-commerce/static/media/watch (6).98a21b197a443092f7ae.jpg",
+    "static/media/watch (3).jpg": "/E-commerce/static/media/watch (3).44bdf5b17c44fc49ad8f.jpg",
+    "static/media/woman.jpg": "/E-commerce/static/media/woman.c41073771115ff7362c0.jpg",
+    "index.html": "/E-commerce/index.html",
+    "main.a2d73b9f.css.map": "/E-commerce/static/css/main.a2d73b9f.css.map",
+    "main.e906e7b2.js.map": "/E-commerce/static/js/main.e906e7b2.js.map",
+    "787.dcc73137.chunk.js.map": "/E-commerce/static/js/787.dcc73137.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c3751eb.css",
-    "static/js/main.c365e44c.js"
+    "static/css/main.a2d73b9f.css",
+    "static/js/main.e906e7b2.js"
   ]
 }
