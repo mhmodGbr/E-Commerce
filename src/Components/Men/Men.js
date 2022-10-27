@@ -23,7 +23,7 @@ const Men = () => {
 
         
         <section className='man'>
-            <Navigation />
+        
         <Container className="Men">
 
             <Nav className="men-links" id="link">

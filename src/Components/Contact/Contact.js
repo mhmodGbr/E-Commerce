@@ -9,7 +9,7 @@ import Navigation from "../Navigation/Navigation";
 const Contact = () => {
     return(
         <Fragment >
-            <Navigation />
+            
         <Form className="Form"> 
                 <Form.Group className="mb-3" controlId="formBasicEmail">
                     <Form.Label>Email address</Form.Label>

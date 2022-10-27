@@ -12,7 +12,7 @@ const Women = () => {
     return(
 
         <Fragment>
-            <Navigation />
+            
         <section className='Woman'>
         
         <div className='women-container'>
@@ -155,12 +155,15 @@ const Women = () => {
                         <p>55.77 $</p>
                     </div>
 
+                        
+                    
                         <div className="star-icons">
                         <a><i className="material-icons">star</i></a>
                         <a><i className="material-icons">star</i></a>
                         <a><i className="material-icons">star</i></a>
                         <a><i className="material-icons">star</i></a>
                         </div>
+                    
         </div>
 
         <div className="star-card">
